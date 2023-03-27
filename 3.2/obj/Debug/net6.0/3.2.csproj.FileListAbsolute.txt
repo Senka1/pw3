@@ -1,0 +1,15 @@
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.AssemblyInfo.cs
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\ConsoleApp4\3.2\bin\Debug\net6.0\3.2.exe
+C:\Users\Я\source\repos\ConsoleApp4\3.2\bin\Debug\net6.0\3.2.deps.json
+C:\Users\Я\source\repos\ConsoleApp4\3.2\bin\Debug\net6.0\3.2.runtimeconfig.json
+C:\Users\Я\source\repos\ConsoleApp4\3.2\bin\Debug\net6.0\3.2.dll
+C:\Users\Я\source\repos\ConsoleApp4\3.2\bin\Debug\net6.0\3.2.pdb
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.dll
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\refint\3.2.dll
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.pdb
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\3.2.genruntimeconfig.cache
+C:\Users\Я\source\repos\ConsoleApp4\3.2\obj\Debug\net6.0\ref\3.2.dll
